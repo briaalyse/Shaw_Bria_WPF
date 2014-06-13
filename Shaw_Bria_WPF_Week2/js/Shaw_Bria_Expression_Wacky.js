@@ -1,3 +1,6 @@
 /**
- * Created by briashaw on 6/12/14.
+ * Bria Shaw
+ * WPF 1406 Section 01
+ * Expression Wacky
  */
+//alert("Test 2")
