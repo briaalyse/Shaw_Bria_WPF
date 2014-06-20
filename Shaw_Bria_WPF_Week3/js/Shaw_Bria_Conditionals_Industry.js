@@ -12,5 +12,5 @@ var allowedExtenstion = true;
 //if the student meets the 12 o'clock deadline for the test, print to console "Your test has been submitted."
 //if the deadline met is 15
 if(deadlineTimeMet + testSubmissionTime< maxTestTime){
-    
+    //code performed if submission time is 12.
 }
