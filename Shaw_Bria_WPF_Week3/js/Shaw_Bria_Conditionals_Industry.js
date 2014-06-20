@@ -14,4 +14,6 @@ var allowedExtenstion = true;
 if(deadlineTimeMet + testSubmissionTime< maxTestTime){
     //code performed if submission time is 12.
     console.log("Your test has been submitted.");
+}else{
+    console.log("Your test has not submitted, you have missed the deadline.")
 }
