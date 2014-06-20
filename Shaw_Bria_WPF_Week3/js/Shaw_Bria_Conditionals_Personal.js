@@ -13,3 +13,5 @@ if(hairArganOil){
     //If I don't use Hair Argan Oil, console will print "Oh geese, your hair looks pretty damaged."
     console.log("Oh geese, your hair looks pretty damaged.")
 }
+
+(hairArganOil= false && deepConditioner) ? console.log("Your hair looks nice today!") : console.log("Oh geese, your hair looks pretty damaged.")
