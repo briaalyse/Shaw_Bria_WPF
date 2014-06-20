@@ -4,3 +4,4 @@
  * Conditional Personal
  */
 var hairArganOil = true
+var deepConditioner = true
