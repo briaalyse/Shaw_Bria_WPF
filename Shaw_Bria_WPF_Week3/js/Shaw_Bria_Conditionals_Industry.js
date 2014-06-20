@@ -6,3 +6,4 @@
 
 var deadlineTimeMet = 15;
 var maxTestTime = 12;
+var testSubmissionTime = 1;
