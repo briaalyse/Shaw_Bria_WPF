@@ -5,3 +5,5 @@
  */
 var hairArganOil = true
 var deepConditioner = true
+
+if(hairArganOil){
