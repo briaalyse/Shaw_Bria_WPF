@@ -8,4 +8,7 @@ var deepConditioner = true
 
 if(hairArganOil){
     //if I use the Hair Argan Oil, console will print "Your hair looks nice today!"
+    console.log("Your hair looks nice today!")
+}else{
+    
 }
