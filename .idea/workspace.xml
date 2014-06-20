@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d682e230-a734-4cd1-8a5a-a9901183b8ca" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shaw_Bria_WPF_Week3/js/Shaw_Bria_Conditionals_Personal.js" afterPath="$PROJECT_DIR$/Shaw_Bria_WPF_Week3/js/Shaw_Bria_Conditionals_Personal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shaw_Bria_WPF_Week3/js/Shaw_Bria_Conditionals_Wacky.js" afterPath="$PROJECT_DIR$/Shaw_Bria_WPF_Week3/js/Shaw_Bria_Conditionals_Wacky.js" />
     </list>
     <ignored path="Shaw_Bria_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,21 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Shaw_Bria_Conditionals_Personal.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Shaw_Bria_Conditionals_Personal.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Shaw_Bria_WPF_Week3/js/Shaw_Bria_Conditionals_Personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3529412" vertical-offset="0" max-vertical-offset="680">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
               <caret line="16" column="142" selection-start-line="16" selection-start-column="142" selection-end-line="16" selection-end-column="142" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Shaw_Bria_Conditionals_Wacky.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Shaw_Bria_Conditionals_Wacky.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Shaw_Bria_WPF_Week3/js/Shaw_Bria_Conditionals_Wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
-              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.38961038" vertical-offset="0" max-vertical-offset="693">
+              <caret line="18" column="128" selection-start-line="18" selection-start-column="128" selection-end-line="18" selection-end-column="128" />
               <folding />
             </state>
           </provider>
@@ -70,9 +70,9 @@
         <option value="$PROJECT_DIR$/Shaw_Bria_WPF_Week3/Industry_index.html" />
         <option value="$PROJECT_DIR$/Shaw_Bria_WPF_Week3/Personal_index.html" />
         <option value="$PROJECT_DIR$/Shaw_Bria_WPF_Week3/Wacky_index.html" />
-        <option value="$PROJECT_DIR$/Shaw_Bria_WPF_Week3/js/Shaw_Bria_Conditionals_Wacky.js" />
         <option value="$PROJECT_DIR$/Shaw_Bria_WPF_Week3/js/Shaw_Bria_Conditionals_Industry.js" />
         <option value="$PROJECT_DIR$/Shaw_Bria_WPF_Week3/js/Shaw_Bria_Conditionals_Personal.js" />
+        <option value="$PROJECT_DIR$/Shaw_Bria_WPF_Week3/js/Shaw_Bria_Conditionals_Wacky.js" />
       </list>
     </option>
   </component>
@@ -438,14 +438,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Shaw_Bria_WPF_Week3/js/Shaw_Bria_Conditionals_Wacky.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Shaw_Bria_WPF_Week3/js/Shaw_Bria_Conditionals_Industry.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4978355" vertical-offset="0" max-vertical-offset="693">
@@ -456,8 +448,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Shaw_Bria_WPF_Week3/js/Shaw_Bria_Conditionals_Personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3529412" vertical-offset="0" max-vertical-offset="680">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
           <caret line="16" column="142" selection-start-line="16" selection-start-column="142" selection-end-line="16" selection-end-column="142" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shaw_Bria_WPF_Week3/js/Shaw_Bria_Conditionals_Wacky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38961038" vertical-offset="0" max-vertical-offset="693">
+          <caret line="18" column="128" selection-start-line="18" selection-start-column="128" selection-end-line="18" selection-end-column="128" />
           <folding />
         </state>
       </provider>
