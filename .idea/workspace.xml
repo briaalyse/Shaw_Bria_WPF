@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d682e230-a734-4cd1-8a5a-a9901183b8ca" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Shaw_Bria_Personal_Function.js" afterPath="$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Shaw_Bria_Personal_Function.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Shaw_Bria_Wacky_Function.js" afterPath="$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Shaw_Bria_Wacky_Function.js" />
     </list>
     <ignored path="Shaw_Bria_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Shaw_Bria_Personal_Function.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Shaw_Bria_Personal_Function.js">
+      <file leaf-file-name="Shaw_Bria_Wacky_Function.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Shaw_Bria_Wacky_Function.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.064935066" vertical-offset="0" max-vertical-offset="693">
-              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -71,6 +71,7 @@
         <option value="$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Industry_index.html" />
         <option value="$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Shaw_Bria_Industry_Function.js" />
         <option value="$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Shaw_Bria_Personal_Function.js" />
+        <option value="$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Shaw_Bria_Wacky_Function.js" />
       </list>
     </option>
   </component>
@@ -516,6 +517,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.064935066" vertical-offset="0" max-vertical-offset="693">
           <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Shaw_Bria_Wacky_Function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.064935066" vertical-offset="0" max-vertical-offset="693">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
           <folding />
         </state>
       </provider>
