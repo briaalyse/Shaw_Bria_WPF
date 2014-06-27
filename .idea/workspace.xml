@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d682e230-a734-4cd1-8a5a-a9901183b8ca" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Personal_index.html" afterPath="$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Personal_index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Industry_index.html" afterPath="$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Industry_index.html" />
     </list>
     <ignored path="Shaw_Bria_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,20 +45,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Industry_index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Industry_index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Industry_index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="225">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.11210762" vertical-offset="0" max-vertical-offset="669">
+              <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Personal_index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Personal_index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Personal_index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.11210762" vertical-offset="0" max-vertical-offset="669">
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
               <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
               <folding />
             </state>
@@ -106,9 +106,9 @@
         <option value="$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Personal_Function.js" />
         <option value="$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Industry_Function.js" />
         <option value="$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Wacky_Function.js" />
-        <option value="$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Industry_index.html" />
         <option value="$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Wacky_index.html" />
         <option value="$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Personal_index.html" />
+        <option value="$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Industry_index.html" />
       </list>
     </option>
   </component>
@@ -508,14 +508,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Industry_index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="693">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Shaw_Bria_WPF_Week3/Wacky_index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.116099074" vertical-offset="0" max-vertical-offset="646">
@@ -533,6 +525,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Personal_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shaw_Bria_WPF_Week4/js/Industry_index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.11210762" vertical-offset="0" max-vertical-offset="669">
           <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
