@@ -1,3 +1,5 @@
 /**
- * Created by briashaw on 6/26/14.
+ * Bria Shaw
+ * WPF 1406 Section 01
+ * Industry Function
  */
